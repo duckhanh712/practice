@@ -1,9 +1,9 @@
-package first_project;
+package algorithm;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class lab {
+public class practice {
 	public static void main(String[] args) {
 		int[] clubs = { 100, 563, 1, 2, 3, 4, 9, 6 };
 		int[] newArr = sapxep(clubs);
